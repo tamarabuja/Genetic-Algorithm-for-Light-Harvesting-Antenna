@@ -1,7 +1,7 @@
 # A Genetic Algorithm to Evolve Light-Harvesting Antennas
 
 The purpose of this algorithm was to design physically feasible photosynthetic ‘antenna’ structures on the surface of M-dwarf exoplanets by simulating the processes of natural selection and evolution. 
-This involved randomly generating an amount of light-harvesting antenna structures, ranking them by fitness in the context of a given environment, selecting a subset of the most fit structures to ‘reproduce’ by randomly combining with other fit structures to create hypothetically fitter daughter structures, and repeating this process until the population of antennas converges on a single structure that satisfies the conditions of survival for that environment.
+This involved optimising a general, kinetic model of light absorption and energy transfer to the photosystem reaction centre. This was done by randomly generating an amount of light-harvesting antenna structures, ranking them by fitness in the context of a given environment, selecting a subset of the most fit structures to ‘reproduce’ by randomly combining with other fit structures to create hypothetically fitter daughter structures, and repeating this process until the population of antennas converges on a single structure that satisfies the conditions of survival for that environment.
 
 
 
